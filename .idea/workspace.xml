@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01afb1c1-4d53-4823-a1da-2826de490416" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/prisma/datamodel.prisma" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1iXGU2EwKRxwkaWn5NaDru24WPl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01afb1c1-4d53-4823-a1da-2826de490416" name="Default Changelist" comment="" />
+      <created>1602046534765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602046534765</updated>
+      <workItem from="1602046535808" duration="1633000" />
+      <workItem from="1602048408931" duration="3346000" />
+      <workItem from="1602065283883" duration="5023000" />
+      <workItem from="1602129348304" duration="9829000" />
+      <workItem from="1602152850091" duration="10623000" />
+      <workItem from="1602214758388" duration="743000" />
+      <workItem from="1602259470426" duration="7616000" />
+      <workItem from="1602297502369" duration="612000" />
+      <workItem from="1602299352101" duration="13000" />
+      <workItem from="1602305902961" duration="7754000" />
+      <workItem from="1602386331208" duration="1406000" />
+      <workItem from="1602464060412" duration="29017000" />
+      <workItem from="1602557296272" duration="4629000" />
+      <workItem from="1602581672561" duration="505000" />
+      <workItem from="1602588302676" duration="8004000" />
+      <workItem from="1602646328655" duration="21302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602063300188">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.736/0.0.1366.736@0.0.1366.736" timestamp="1602048339201" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.738/0.0.1366.738@0.0.1366.738" timestamp="1602063300188" />
+    <state x="1779" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602504387416">
+      <screen x="1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="1779" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1366.0.1366.738/0.0.1366.738@1366.0.1366.738" timestamp="1602504387416" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1602588902300">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602465488852" />
+    <state x="463" y="124" key="FileChooserDialogImpl/1366.0.1366.738/0.0.1366.738@0.0.1366.738" timestamp="1602588902300" />
+    <state x="1829" y="124" key="FileChooserDialogImpl/1366.0.1366.738/0.0.1366.738@1366.0.1366.738" timestamp="1602299283044" />
+    <state x="1550" y="13" key="SettingsEditor" timestamp="1602131381689">
+      <screen x="1366" y="0" width="1366" height="736" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/1366.0.1366.736/0.0.1366.736@0.0.1366.736" timestamp="1602048359267" />
+    <state x="1550" y="13" key="SettingsEditor/1366.0.1366.736/0.0.1366.736@1366.0.1366.736" timestamp="1602131381689" />
+    <state x="184" y="13" key="SettingsEditor/1366.0.1366.738/0.0.1366.738@0.0.1366.738" timestamp="1602063332846" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1602668574972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602668574972" />
+    <state x="1705" y="165" key="run.anything.popup/1366.0.1366.738/0.0.1366.738@1366.0.1366.738" timestamp="1602157468317" />
+    <state x="1712" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602155702555">
+      <screen x="1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="1712" y="59" width="672" height="678" key="search.everywhere.popup/1366.0.1366.738/0.0.1366.738@1366.0.1366.738" timestamp="1602155702555" />
+  </component>
+</project>
