@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01afb1c1-4d53-4823-a1da-2826de490416" name="Default Changelist" comment="" />
+    <list default="true" id="01afb1c1-4d53-4823-a1da-2826de490416" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolvers/mutation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvers/mutation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolvers/query.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvers/query.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/schema.graphql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/prisma/datamodel.prisma" root0="FORCE_HIGHLIGHTING" />
@@ -59,7 +67,8 @@
       <workItem from="1602557296272" duration="4629000" />
       <workItem from="1602581672561" duration="505000" />
       <workItem from="1602588302676" duration="8004000" />
-      <workItem from="1602646328655" duration="21302000" />
+      <workItem from="1602646328655" duration="23133000" />
+      <workItem from="1602818726091" duration="1691000" />
     </task>
     <servers />
   </component>

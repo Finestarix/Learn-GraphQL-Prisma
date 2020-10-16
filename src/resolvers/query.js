@@ -11,7 +11,12 @@ const Query = {
         }, info)
     },
     async users(parent, args, {prisma}, info) {
-        const opArgs = {}
+        const opArgs = {
+            first: args.first,
+            skip: args.skip,
+            after: args.after,
+            orderBy: args.orderBy
+        }
         if (args.query)
             opArgs.where = {
                 name_contains: args.query
@@ -54,7 +59,13 @@ const Query = {
         return posts[0]
     },
     async posts(parent, args, {prisma}, info) {
-        const opArgs = {where: {published: true}}
+        const opArgs = {
+            where: {published: true},
+            first: args.first,
+            last: args.last,
+            after: args.after,
+            orderBy: args.orderBy
+        }
         if (args.query)
             opArgs.where.OR = [{
                 title_contains: args.query
@@ -65,14 +76,18 @@ const Query = {
         return prisma.query.posts(opArgs, info)
     },
     async comments(parent, args, {prisma}, info) {
-        const opArgs = {}
+        const opArgs = {
+            first: args.first,
+            last: args.last,
+            after: args.after,
+            orderBy: args.orderBy
+        }
         if (args.query)
             opArgs.where = {
                 text_contains: args.query
             }
 
-        const a = await prisma.query.posts(opArgs, info)
-        return a;
+        return prisma.query.comments(opArgs, info);
     }
 }
 
